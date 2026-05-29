@@ -14,8 +14,9 @@ Run:
 ### Questions
 
 1.  Who owns the file?
+Team5
 2.  What are the default permissions?
-
+-rw-rw-r-- 1
 ### Reflection
 
 Why is file ownership important in Linux systems?
